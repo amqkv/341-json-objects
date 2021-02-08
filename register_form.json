@@ -1,0 +1,6 @@
+[
+  {"id":1, "as": "input", "type": "email", "placeholder": "Enter email", "label": "Email"},
+  {"id":2, "as": "input", "type": "text", "placeholder": "Enter full name", "label": "Full name"}, 
+  {"id":3, "as": "input", "type": "text", "placeholder": "Enter username", "label": "Username"}, 
+  {"id":4, "as": "input", "type": "password", "placeholder": "Password", "label": "Password"}
+]
